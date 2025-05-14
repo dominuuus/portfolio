@@ -1,0 +1,194 @@
+@media (max-width: 1200px) {
+    header {
+      padding: 0 50px;
+    }
+  
+    .home {
+      padding: 50px 100px;
+      gap: 50px;
+    }
+  
+    .sobre {
+      padding: 50px 100px;
+    }
+  
+    .projetos {
+      padding: 50px;
+    }
+  
+    .contato {
+      padding: 50px;
+    }
+  
+    .home__photo img {
+      height: 400px;
+    }
+  
+    .about__container img {
+      height: 300px;
+    }
+  
+    .skills-list {
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+  }
+  
+  @media (max-width: 768px) {
+    header {
+      padding: 0 20px;
+    }
+  
+    #navbar ul {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    ul li {
+      margin: 5px 0;
+    }
+  
+    .home {
+      flex-direction: column;
+      padding: 30px 50px;
+      margin: 80px 10px 10px;
+      height: auto;
+      gap: 30px;
+    }
+  
+    .home__photo {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .home__photo img {
+      height: 300px;
+    }
+  
+    .home__photo_title span {
+      font-size: 24px;
+    }
+  
+    .sobre {
+      padding: 30px 50px;
+      height: auto;
+    }
+  
+    .about__container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .about__container img {
+      height: 200px;
+    }
+  
+    .about__container h1 {
+      font-size: 24px;
+    }
+  
+    .projetos {
+      padding: 30px;
+    }
+  
+    .contato {
+      padding: 30px;
+      height: auto;
+    }
+  
+    .input-choose,
+    .checkbox-fiels {
+      flex-direction: column;
+    }
+  
+    .forms-button {
+      justify-content: center;
+    }
+  
+    .skills-list {
+      grid-template-columns: 1fr;
+    }
+  
+    footer {
+      height: 150px;
+      display: none;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    header {
+      padding: 0 10px;
+      height: 50px;
+    }
+  
+    i {
+      font-size: 16px;
+    }
+  
+    .nav-link {
+      font-size: 14px;
+    }
+  
+    .home {
+      padding: 20px;
+      margin: 60px 5px 5px;
+    }
+  
+    .home__photo img {
+      height: 200px;
+    }
+  
+    .home__photo_title span {
+      font-size: 20px;
+    }
+  
+    .home__photo_title a,
+    .card-body a,
+    .card-body-small a,
+    .send-button,
+    .cancel-button {
+      padding: 8px 16px;
+      font-size: 14px;
+      width: 80px;
+    }
+  
+    .sobre {
+      padding: 20px;
+    }
+  
+    .page__label {
+      font-size: 16px;
+    }
+  
+    .about__container {
+      padding: 10px;
+    }
+  
+    .about__container img {
+      height: 150px;
+    }
+  
+    .about__container h1 {
+      font-size: 20px;
+    }
+  
+    .experiencia {
+      padding: 10px;
+    }
+  
+    .projetos {
+      padding: 20px;
+    }
+  
+    .contato {
+      padding: 20px;
+    }
+  
+    .skill-word {
+      padding: 6px 12px;
+      font-size: 12px;
+    }
+  
+    .skill-item {
+      padding: 1rem;
+    }
+  }
