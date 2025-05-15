@@ -10,14 +10,14 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "HTML/CSS",
       category: "hard",
-      level: 85,
+      level: 80,
       description:
         "Utilizo na construção de interfaces responsivas e bem estruturadas, com atenção à semântica e usabilidade.",
     },
     {
       name: "JavaScript/TypeScript",
       category: "hard",
-      level: 75,
+      level: 60,
       description:
         "Aplico em projetos com React e Angular, com domínio crescente de lógica e boas práticas modernas.",
     },
@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Figma",
       category: "hard",
-      level: 85,
+      level: 80,
       description:
         "Realizo prototipação funcional, com foco em acessibilidade, hierarquia visual e fluidez de navegação.",
     },
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Angular",
       category: "hard",
-      level: 70,
+      level: 65,
       description:
         "Desenvolvo aplicações modulares com rotas, componentes e integração com API, seguindo padrão organizacional.",
     },
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "API Rest",
       category: "hard",
-      level: 60,
+      level: 55,
       description:
         "Tenho boa compreensão da arquitetura REST e realizo integração com back-end em projetos fullstack.",
     },
@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Spring Boot (Java)",
       category: "hard",
-      level: 60,
+      level: 50,
       description:
         "Crio APIs REST com estrutura MVC, integração com banco de dados e testes com Postman em projetos práticos.",
     },
@@ -108,14 +108,14 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "SQL (MySQL/PostgreSQL)",
       category: "hard",
-      level: 58,
+      level: 45,
       description:
         "Desenvolvo comandos de manipulação e consulta de dados em projetos acadêmicos com consistência.",
     },
     {
       name: "Power BI",
       category: "hard",
-      level: 60,
+      level: 55,
       description:
         "Crio dashboards e relatórios visuais para representar dados de forma clara e eficiente.",
     },

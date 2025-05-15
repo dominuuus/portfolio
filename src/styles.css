@@ -355,17 +355,17 @@ footer {
   transition: width 1s ease-in-out;
 }
 
-.skill-soft {
+.skill-hard {
   background-color: var(--skill-soft-bg);
   color: white;
 }
 
-.skill-hard {
-  background-color:rgb(205, 116, 143);
+.skill-soft {
+  background-color: #f28e2b;
   color: white;
 }
 
-.skill-soft .skill-progress-bar {
+.skill-hard .skill-progress-bar {
   background: linear-gradient(
     90deg,
     var(--color-about-bg),
@@ -373,7 +373,7 @@ footer {
   );
 }
 
-.skill-hard .skill-progress-bar {
+.skill-soft .skill-progress-bar {
   background: linear-gradient(
     90deg,
     var(--skill-soft-bg),
