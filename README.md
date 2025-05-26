@@ -23,7 +23,6 @@ O projeto foi construído com as seguintes tecnologias:
 
 ## ✨ Funcionalidades
 
-- **Design Responsivo**: Adaptável a desktops, tablets e dispositivos móveis, com menu hambúrguer em telas menores.
 - **Navegação Intuitiva**: Links diretos para seções como Home, Sobre, Experiência, Habilidades, Projetos e Contato.
 - **Hospedagem no GitHub Pages**: Deploy contínuo para acesso online.
 - **Integração com Bootstrap Icons**: Ícones modernos para redes sociais e menu.
